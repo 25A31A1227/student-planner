@@ -1,1 +1,6 @@
-# student-planner
+# student-planner/
+  README.md
+  index.html
+  style.css
+  script.js
+    
